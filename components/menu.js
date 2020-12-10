@@ -16,11 +16,6 @@ const Menu = () => {
               </Link>
             </Nav.Item>
             <Nav.Item>
-              <Link href="/about">
-                <a className="nav-link">About</a>
-              </Link>
-            </Nav.Item>
-            <Nav.Item>
               <Link href="/contact">
                 <a className="nav-link">Contact</a>
               </Link>
