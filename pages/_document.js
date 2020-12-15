@@ -9,7 +9,6 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head />
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-FPCEQ5J208"
@@ -25,6 +24,7 @@ class MyDocument extends Document {
         `,
           }}
         />
+        <Head />
         <body>
           <Main />
           <NextScript />
