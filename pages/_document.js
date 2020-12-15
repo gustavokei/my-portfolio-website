@@ -11,7 +11,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-FPCEQ5J208"
+          src="https://www.googletagmanager.com/gtag/js?id=UA-185642244-1
+"
         />
 
         <script
@@ -20,7 +21,8 @@ class MyDocument extends Document {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-FPCEQ5J208');
+            gtag('config', 'UA-185642244-1
+');
         `,
           }}
         />
