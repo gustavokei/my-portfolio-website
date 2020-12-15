@@ -4,7 +4,7 @@ import Menu from "../components/menu";
 import { Container } from "react-bootstrap";
 import Intro from "../components/pages/home/intro";
 import Projects from "../components/pages/home/projects";
-import Exp from "../components/pages/home/exp";
+import Timeline from "../components/pages/home/timeline";
 import Footer from "../components/footer";
 import styles from "./../components/styles.module.scss";
 
@@ -16,7 +16,7 @@ const Home = () => (
       <Container>
         <Intro />
         <Projects />
-        <Exp />
+        <Timeline />
       </Container>
     </div>
     <div className={styles.footer}>
