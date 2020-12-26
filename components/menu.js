@@ -46,7 +46,7 @@ const Menu = () => {
             <FontAwesomeIcon icon={faGithubSquare} />
           </a>
 
-          <a href="https://www.behance.net/amemiyakei" target="blank">
+          <a href="https://www.behance.net/gustavokei" target="blank">
             <FontAwesomeIcon icon={faBehanceSquare} />
           </a>
         </div>

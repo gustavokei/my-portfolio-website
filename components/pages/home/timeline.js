@@ -44,13 +44,13 @@ const Exp = () => {
             </h4>
             <p>São Paulo, SP</p>
           </VerticalTimelineElement>
-          <VerticalTimelineElement
+          {/* <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(253, 123, 63)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(253, 123, 63)" }}
+            contentStyle={{ background: "rgb(253, 153, 63)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(253, 153, 63)" }}
             date="2016/03 - 2017/04"
             iconStyle={{
-              background: "rgb(253, 123, 63)",
+              background: "rgb(253, 153, 63)",
               color: "#fff",
             }}
             icon={
@@ -74,7 +74,7 @@ const Exp = () => {
               </a>
             </h4>
             <p>São Paulo, SP</p>
-          </VerticalTimelineElement>
+          </VerticalTimelineElement> */}
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(87, 55, 120)", color: "#fff" }}
