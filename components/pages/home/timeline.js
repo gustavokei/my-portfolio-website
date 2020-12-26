@@ -44,7 +44,7 @@ const Exp = () => {
             </h4>
             <p>São Paulo, SP</p>
           </VerticalTimelineElement>
-          {/* <VerticalTimelineElement
+          <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(253, 153, 63)", color: "#fff" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(253, 153, 63)" }}
@@ -66,7 +66,7 @@ const Exp = () => {
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/company/rysegames/about/"
+                href="https://www.linkedin.com/company/rysegames/"
                 target="_blank"
                 className={styles.customLink}
               >
@@ -74,7 +74,7 @@ const Exp = () => {
               </a>
             </h4>
             <p>São Paulo, SP</p>
-          </VerticalTimelineElement> */}
+          </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(87, 55, 120)", color: "#fff" }}
@@ -97,7 +97,7 @@ const Exp = () => {
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/company/rysegames/about/"
+                href="https://www.linkedin.com/company/cuponomia/"
                 target="_blank"
                 className={styles.customLink}
               >
