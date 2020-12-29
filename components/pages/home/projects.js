@@ -19,22 +19,22 @@ const Projects = () => {
                 variant="top"
                 src="project1.jpg"
               />
-              <Card.Body>
+              <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
-                  Soluna Front
+                  Project Soluna
                 </Card.Title>
                 <Card.Subtitle className={styles.cardSubtitle}>
                   gustavokei/gc-app-caps
                 </Card.Subtitle>
                 <Card.Text>
-                  A CRUD NextJS webapp developed using ReactJS's Hooks and
-                  Context API + only function components
+                  A full-stack CRUD NextJS webapp developed using ReactJS,
+                  NodeJS, and MSSQL.
                 </Card.Text>
               </Card.Body>
             </Card>
           </a>
           <a
-            href="https://github.com/gustavokei/gc-dportal-caps"
+            href="https://github.com/gustavokei/gc-launcher"
             target="_blank"
             className={styles.customLink}
           >
@@ -44,16 +44,16 @@ const Projects = () => {
                 variant="top"
                 src="project2.jpg"
               />
-              <Card.Body>
+              <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
-                  Soluna Back
+                  Game Auto Updater
                 </Card.Title>
                 <Card.Subtitle className={styles.cardSubtitle}>
-                  gustavokei/gc-dportal-caps
+                  gustavokei/gc-launcher
                 </Card.Subtitle>
                 <Card.Text>
-                  A NodeJS REST API for the gc-app-caps project. Made with MVC
-                  pattern.
+                  An ElectronJS and ReactJS desktop application for Windows that
+                  updates and launches any game. Highly customizable.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -69,14 +69,16 @@ const Projects = () => {
                 variant="top"
                 src="project3.jpg"
               />
-              <Card.Body>
+              <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
                   This website
                 </Card.Title>
                 <Card.Subtitle className={styles.cardSubtitle}>
                   gustavokei/my-portfolio-website
                 </Card.Subtitle>
-                <Card.Text>My portfolio website</Card.Text>
+                <Card.Text>
+                  My portfolio website. Made with NextJS and ReactJS.
+                </Card.Text>
               </Card.Body>
             </Card>
           </a>
