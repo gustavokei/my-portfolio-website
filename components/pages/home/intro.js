@@ -7,7 +7,7 @@ const Intro = () => {
   return (
     <Row className={"pt-5 pb-5 " + styles.customRow}>
       <Col xs="10">
-        <h1 className={styles.title}>My name is Gustavo Kei!</h1>
+        <h1 className={styles.title}>My name is Gustavo Kei Amemiya</h1>
         <p>
           I am a full stack web developer from Brazil. I worked as a web
           developer for around 3 years, while having a{" "}
