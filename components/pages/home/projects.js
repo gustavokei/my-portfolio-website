@@ -27,7 +27,7 @@ const Projects = () => {
                   gustavokei/gc-app-caps
                 </Card.Subtitle>
                 <Card.Text>
-                  A full-stack CRUD NextJS webapp developed using ReactJS,
+                  A full stack CRUD NextJS webapp developed using ReactJS,
                   NodeJS, and MSSQL.
                 </Card.Text>
               </Card.Body>
