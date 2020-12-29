@@ -14,12 +14,9 @@ const Intro = () => {
           <Flags.BR title="Brazil" className={styles.flag} /> bachelor degree in
           Web Design (2018), and a{" "}
           <Flags.CA title="Canada" className={styles.flag} /> post graduate
-          degree in Web Design and Development (2021)
+          degree in Web Design and Development (2021).
         </p>
-        <p>
-          ReactJS and NodeJS are currently my favourite libraries and my best
-          project is gc-app-caps
-        </p>
+        <p>ReactJS and NodeJS are currently my favourite libraries!</p>
       </Col>
     </Row>
   );
