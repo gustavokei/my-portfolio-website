@@ -52,8 +52,8 @@ const Projects = () => {
                   gustavokei/electron-game-updater
                 </Card.Subtitle>
                 <Card.Text>
-                  An ElectronJS and ReactJS desktop application for Windows that
-                  updates and launches any game. Highly customizable.
+                  An ElectronJS desktop application for Windows that updates and
+                  launches any game.
                 </Card.Text>
               </Card.Body>
             </Card>
