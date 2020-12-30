@@ -15,7 +15,7 @@ const Projects = () => {
           >
             <Card bg="dark" className={styles.card}>
               <Card.Img
-                alt="orange hair and silver sword."
+                alt="screenshot of project soluna webapp"
                 variant="top"
                 src="project1.jpg"
               />
@@ -34,22 +34,22 @@ const Projects = () => {
             </Card>
           </a>
           <a
-            href="https://github.com/gustavokei/gc-launcher"
+            href="https://github.com/gustavokei/electron-game-updater"
             target="_blank"
             className={styles.customLink}
           >
             <Card bg="dark" className={styles.card}>
               <Card.Img
-                alt="orange hair and silver sword."
+                alt="screenshot of electron game updater desktop app"
                 variant="top"
                 src="project2.jpg"
               />
               <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
-                  Game Auto Updater
+                  Electron Game Updater
                 </Card.Title>
                 <Card.Subtitle className={styles.cardSubtitle}>
-                  gustavokei/gc-launcher
+                  gustavokei/electron-game-updater
                 </Card.Subtitle>
                 <Card.Text>
                   An ElectronJS and ReactJS desktop application for Windows that
@@ -65,7 +65,7 @@ const Projects = () => {
           >
             <Card bg="dark" className={styles.card}>
               <Card.Img
-                alt="orange hair and silver sword."
+                alt="image with text written my name is gustavo kei"
                 variant="top"
                 src="project3.jpg"
               />
