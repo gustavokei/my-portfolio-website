@@ -37,6 +37,7 @@ const Exp = () => {
               <a
                 href="https://www.linkedin.com/school/universidade-anhembi-morumbi/"
                 target="_blank"
+                rel="noopener"
                 className={styles.customLink}
               >
                 @Anhembi Morumbi University
@@ -68,6 +69,7 @@ const Exp = () => {
               <a
                 href="https://www.linkedin.com/company/rysegames/"
                 target="_blank"
+                rel="noopener"
                 className={styles.customLink}
               >
                 @Ryse Games
@@ -99,6 +101,7 @@ const Exp = () => {
               <a
                 href="https://www.linkedin.com/company/cuponomia/"
                 target="_blank"
+                rel="noopener"
                 className={styles.customLink}
               >
                 @Cuponomia
@@ -130,6 +133,7 @@ const Exp = () => {
               <a
                 href="https://www.linkedin.com/company/bybeyoung/"
                 target="_blank"
+                rel="noopener"
                 className={styles.customLink}
               >
                 @Beyoung
@@ -161,6 +165,7 @@ const Exp = () => {
               <a
                 href="https://www.linkedin.com/school/conestoga-college/"
                 target="_blank"
+                rel="noopener"
                 className={styles.customLink}
               >
                 @Conestoga College

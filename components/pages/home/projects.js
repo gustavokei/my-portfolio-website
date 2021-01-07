@@ -11,6 +11,7 @@ const Projects = () => {
           <a
             href="https://github.com/gustavokei/gc-app-caps"
             target="_blank"
+            rel="noopener"
             className={styles.customLink}
           >
             <Card bg="dark" className={styles.card}>
@@ -36,6 +37,7 @@ const Projects = () => {
           <a
             href="https://github.com/gustavokei/electron-game-updater"
             target="_blank"
+            rel="noopener"
             className={styles.customLink}
           >
             <Card bg="dark" className={styles.card}>
@@ -61,6 +63,7 @@ const Projects = () => {
           <a
             href="https://github.com/gustavokei/my-portfolio-website"
             target="_blank"
+            rel="noopener"
             className={styles.customLink}
           >
             <Card bg="dark" className={styles.card}>
@@ -86,6 +89,7 @@ const Projects = () => {
         <Button
           className="p-3 mt-3"
           href="https://github.com/gustavokei?tab=repositories"
+          rel="noopener"
           target="_blank"
         >
           View all

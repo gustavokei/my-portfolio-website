@@ -17,14 +17,23 @@ const Footer = () => {
             <a
               href="https://www.linkedin.com/in/gustavo-kei-amemiya-32270818b/?locale=en_US"
               target="_blank"
+              rel="noopener"
             >
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
-            <a href="https://github.com/gustavokei" target="blank">
+            <a
+              href="https://github.com/gustavokei"
+              target="blank"
+              rel="noopener"
+            >
               <FontAwesomeIcon icon={faGithubSquare} />
             </a>
 
-            <a href="https://www.behance.net/gustavokei" target="blank">
+            <a
+              href="https://www.behance.net/gustavokei"
+              target="blank"
+              rel="noopener"
+            >
               <FontAwesomeIcon icon={faBehanceSquare} />
             </a>
           </div>
