@@ -11,7 +11,7 @@ const Exp = () => {
   return (
     <Row className={"pt-5 pb-5 " + styles.customRow}>
       <Col xs="10">
-        <h3 className={styles.title}>Experience</h3>
+        <h2 className={styles.title}>Experience</h2>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"

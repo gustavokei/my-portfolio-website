@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <Row className={"pb-5 " + styles.customRow}>
       <Col xs="10" className={styles.customCol}>
-        <h3 className={styles.title}>Featured Projects</h3>
+        <h2 className={styles.title}>Featured Projects</h2>
         <div className="card-columns">
           <a
             href="https://github.com/gustavokei/gc-app-caps"
