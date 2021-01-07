@@ -17,7 +17,7 @@ const Projects = () => {
               <Card.Img
                 alt="screenshot of project soluna webapp"
                 variant="top"
-                src="project1.jpg"
+                src="project1.webp"
               />
               <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
@@ -42,7 +42,7 @@ const Projects = () => {
               <Card.Img
                 alt="screenshot of electron game updater desktop app"
                 variant="top"
-                src="project2.jpg"
+                src="project2.webp"
               />
               <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>
@@ -67,7 +67,7 @@ const Projects = () => {
               <Card.Img
                 alt="image with text written my name is gustavo kei"
                 variant="top"
-                src="project3.jpg"
+                src="project3.webp"
               />
               <Card.Body className={styles.cardBody}>
                 <Card.Title className={styles.cardTitle}>

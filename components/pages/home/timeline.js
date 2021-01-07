@@ -25,7 +25,7 @@ const Exp = () => {
             icon={
               <img
                 className={styles.timelineIcon}
-                src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8sNk1jywcRQ/company-logo_200_200/0/1606850099262?e=1616025600&v=beta&t=0XKeF43rV5ErTZ8sZb1Ir4ahzs76wuq7CoobD9ogIJM"
+                src="timeline1.webp"
                 alt="Anhembi Morumbi Logo"
               />
             }
@@ -56,7 +56,7 @@ const Exp = () => {
             icon={
               <img
                 className={styles.timelineIcon}
-                src="https://media-exp1.licdn.com/dms/image/C4E0BAQEdH2lH-aVf1g/company-logo_200_200/0/1519890910789?e=1616025600&v=beta&t=uB21oApmSv_1584U1ioe1xnS5NkGAFuTr9goecSXt60"
+                src="timeline2.webp"
                 alt="Ryse Games Logo"
               />
             }
@@ -87,7 +87,7 @@ const Exp = () => {
             icon={
               <img
                 className={styles.timelineIcon}
-                src="https://media-exp1.licdn.com/dms/image/C4D0BAQET7h8kl7NmWQ/company-logo_200_200/0/1583351007664?e=1616025600&v=beta&t=91tGaNfVN4K3tWeqS65_5dCR2C5PZr_8kljYa9phDgM"
+                src="timeline3.webp"
                 alt="Cuponomia Logo"
               />
             }
@@ -118,7 +118,7 @@ const Exp = () => {
             icon={
               <img
                 className={styles.timelineIcon}
-                src="https://media-exp1.licdn.com/dms/image/C560BAQFTEWJIfSfX4Q/company-logo_200_200/0/1598462098509?e=1616025600&v=beta&t=XMy42GMcAiMGvyCUxANs7yRa1K5PfCjaXytjDn6kS00"
+                src="timeline4.webp"
                 alt="Beyoung Logo"
               />
             }
@@ -149,8 +149,8 @@ const Exp = () => {
             icon={
               <img
                 className={styles.timelineIcon}
-                src="https://media-exp1.licdn.com/dms/image/C4D0BAQGkyy7hVgi8SA/company-logo_200_200/0/1529078467854?e=1616025600&v=beta&t=FnhAUOlzTJRifO6dbxNfDFtSoEVlED8UBsjom-9gDwg"
-                alt="Cuponomia Logo"
+                src="timeline5.webp"
+                alt="Conestoga Logo"
               />
             }
           >
