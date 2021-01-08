@@ -87,7 +87,7 @@ const Projects = () => {
           </a>
         </div>
         <Button
-          className={"p-3 mt-3 " + styles.btn}
+          className="p-3 mt-3"
           href="https://github.com/gustavokei?tab=repositories"
           rel="noopener"
           target="_blank"
