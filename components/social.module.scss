@@ -1,3 +1,14 @@
+@media (max-width: 576px) {
+  .social {
+    a {
+      text-align: center;
+      svg {
+        margin: 5px auto !important;
+      }
+    }
+  }
+}
+
 .social {
   display: flex;
   flex-direction: row;
@@ -17,8 +28,8 @@
 
     svg {
       width: 32px;
+      margin-bottom: 7px;
       margin-right: 12px;
-      margin-bottom: 2px;
     }
   }
 }
