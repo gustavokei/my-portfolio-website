@@ -7,13 +7,8 @@
 
   a {
     color: white;
-    opacity: 0.75;
     margin: 0 20px;
     transition: 0.3s opacity;
-
-    &:hover {
-      opacity: 1;
-    }
 
     svg {
       width: 32px;
