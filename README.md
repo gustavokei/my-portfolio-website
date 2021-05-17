@@ -8,4 +8,4 @@ This is where people get to know more about me
 ## Google Lighthouse Score
 Measurement done at [web.dev/measure/](https://web.dev/measure/)
 
-![](https://i.imgur.com/epDkOOj.png)
+![](https://i.imgur.com/pkv7QJk.png)
