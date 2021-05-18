@@ -15,64 +15,96 @@ const Exp = () => {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(24, 175, 142)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(24, 175, 142)" }}
-            date="2015 - 2019"
+            contentStyle={{ background: "rgb(0, 0, 0)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(0, 0, 0)" }}
+            date="2021/02 - Today"
             iconStyle={{
-              background: "rgb(24, 175, 142)",
+              background: "rgb(0, 0, 0)",
               color: "#fff",
             }}
             icon={
               <img
                 className={styles.timelineIcon}
-                src="timeline1.webp"
-                alt="Anhembi Morumbi Logo"
+                src="timeline6.webp"
+                alt="Corebiz Logo"
               />
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Web Design Bachelor Degree
+              Front-End Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/school/universidade-anhembi-morumbi/"
+                href="https://www.linkedin.com/company/corebiz-brasil/"
                 target="_blank"
                 rel="noopener"
                 className={styles.customLink}
               >
-                @Anhembi Morumbi University
+                @Corebiz
               </a>
             </h4>
             <p>São Paulo, SP</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(253, 153, 63)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(253, 153, 63)" }}
-            date="2016/03 - 2017/04"
+            contentStyle={{ background: "rgb(161, 114, 47)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(161, 114, 47)" }}
+            date="2019 - 2021"
             iconStyle={{
-              background: "rgb(253, 153, 63)",
+              background: "rgb(161, 114, 47)",
               color: "#fff",
             }}
             icon={
               <img
                 className={styles.timelineIcon}
-                src="timeline2.webp"
-                alt="Ryse Games Logo"
+                src="timeline5.webp"
+                alt="Conestoga Logo"
               />
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Front-End Developer + UI/UX Designer
+              Web Design and Development Graduate
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/company/rysegames/"
+                href="https://www.linkedin.com/school/conestoga-college/"
                 target="_blank"
                 rel="noopener"
                 className={styles.customLink}
               >
-                @Ryse Games
+                @Conestoga College
+              </a>
+            </h4>
+            <p>Kitchener, ON</p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "rgb(0, 0, 0)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(0, 0, 0)" }}
+            date="2017/08 - 2019/02"
+            iconStyle={{
+              background: "rgb(0, 0, 0)",
+              color: "#fff",
+            }}
+            icon={
+              <img
+                className={styles.timelineIcon}
+                src="timeline4.webp"
+                alt="Beyoung Logo"
+              />
+            }
+          >
+            <h3 className="vertical-timeline-element-title">
+              Front-End Developer
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              <a
+                href="https://www.linkedin.com/company/bybeyoung/"
+                target="_blank"
+                rel="noopener"
+                className={styles.customLink}
+              >
+                @Beyoung
               </a>
             </h4>
             <p>São Paulo, SP</p>
@@ -111,67 +143,67 @@ const Exp = () => {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(0, 0, 0)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(0, 0, 0)" }}
-            date="2017/08 - 2019/02"
+            contentStyle={{ background: "rgb(253, 153, 63)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(253, 153, 63)" }}
+            date="2016/03 - 2017/04"
             iconStyle={{
-              background: "rgb(0, 0, 0)",
+              background: "rgb(253, 153, 63)",
               color: "#fff",
             }}
             icon={
               <img
                 className={styles.timelineIcon}
-                src="timeline4.webp"
-                alt="Beyoung Logo"
+                src="timeline2.webp"
+                alt="Ryse Games Logo"
               />
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Front-End Developer
+              Front-End Developer + UI/UX Designer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/company/bybeyoung/"
+                href="https://www.linkedin.com/company/rysegames/"
                 target="_blank"
                 rel="noopener"
                 className={styles.customLink}
               >
-                @Beyoung
+                @Ryse Games
               </a>
             </h4>
             <p>São Paulo, SP</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(161, 114, 47)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(161, 114, 47)" }}
-            date="2019 - 2021"
+            contentStyle={{ background: "rgb(24, 175, 142)", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  rgb(24, 175, 142)" }}
+            date="2015 - 2019"
             iconStyle={{
-              background: "rgb(161, 114, 47)",
+              background: "rgb(24, 175, 142)",
               color: "#fff",
             }}
             icon={
               <img
                 className={styles.timelineIcon}
-                src="timeline5.webp"
-                alt="Conestoga Logo"
+                src="timeline1.webp"
+                alt="Anhembi Morumbi Logo"
               />
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Ontario College Graduate
+              Web Design Bachelor Degree
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
-                href="https://www.linkedin.com/school/conestoga-college/"
+                href="https://www.linkedin.com/school/universidade-anhembi-morumbi/"
                 target="_blank"
                 rel="noopener"
                 className={styles.customLink}
               >
-                @Conestoga College
+                @Anhembi Morumbi University
               </a>
             </h4>
-            <p>Kitchener, ON</p>
+            <p>São Paulo, SP</p>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </Col>
