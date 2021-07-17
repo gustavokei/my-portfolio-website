@@ -6,20 +6,19 @@ import Intro from "../components/pages/home/intro";
 import Projects from "../components/pages/home/projects";
 import Timeline from "../components/pages/home/timeline";
 import Footer from "../components/footer";
-import styles from "./../components/styles.module.scss";
 
 const Home = () => (
   <div>
     <Head title="Gustavo Kei" />
     <Menu />
-    <div className={styles.content}>
+    <div className="content">
       <Container>
         <Intro />
         <Projects />
         <Timeline />
       </Container>
     </div>
-    <div className={styles.footer}>
+    <div className="footer">
       <Footer />
     </div>
   </div>

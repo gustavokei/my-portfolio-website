@@ -1,6 +1,5 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
-import styles from "./../../styles.module.scss";
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -9,9 +8,9 @@ import "react-vertical-timeline-component/style.min.css";
 
 const Exp = () => {
   return (
-    <Row className={"pt-5 pb-5 " + styles.customRow}>
+    <Row className="pt-5 pb-5 customRow">
       <Col xs="10">
-        <h2 className={styles.title}>Experience</h2>
+        <h2 className="title">Experience</h2>
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -24,7 +23,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline6.webp"
                 alt="Corebiz Logo"
               />
@@ -38,7 +37,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/company/corebiz-brasil/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Corebiz
               </a>
@@ -56,7 +55,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline5.webp"
                 alt="Conestoga Logo"
               />
@@ -70,7 +69,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/school/conestoga-college/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Conestoga College
               </a>
@@ -88,7 +87,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline4.webp"
                 alt="Beyoung Logo"
               />
@@ -102,7 +101,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/company/bybeyoung/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Beyoung
               </a>
@@ -120,7 +119,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline3.webp"
                 alt="Cuponomia Logo"
               />
@@ -134,7 +133,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/company/cuponomia/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Cuponomia
               </a>
@@ -152,7 +151,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline2.webp"
                 alt="Ryse Games Logo"
               />
@@ -166,7 +165,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/company/rysegames/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Ryse Games
               </a>
@@ -184,7 +183,7 @@ const Exp = () => {
             }}
             icon={
               <img
-                className={styles.timelineIcon}
+                className="timelineIcon"
                 src="timeline1.webp"
                 alt="Anhembi Morumbi Logo"
               />
@@ -198,7 +197,7 @@ const Exp = () => {
                 href="https://www.linkedin.com/school/universidade-anhembi-morumbi/"
                 target="_blank"
                 rel="noopener"
-                className={styles.customLink}
+                className="customLink"
               >
                 @Anhembi Morumbi University
               </a>
