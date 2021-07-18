@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <script
+          {/* <script
             async
             src="https://www.googletagmanager.com/gtag/js?id=UA-185642244-1"
           />
@@ -23,7 +23,7 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'UA-185642244-1');`,
             }}
-          />
+          /> */}
         </Head>
         <body>
           <Main />
