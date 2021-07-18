@@ -1,3 +1,5 @@
+import React from "react";
+
 let GlobalContext = React.createContext();
 
 let initialState = {
