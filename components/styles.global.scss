@@ -64,9 +64,16 @@
   }
 }
 
+.navbar,
 .footer {
+  padding: 0.5rem 1rem;
+  width: 100%;
   background-color: #373a3c;
   color: #fff;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 ._X0nwb {
