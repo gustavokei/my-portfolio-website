@@ -11,10 +11,10 @@ const Projects = () => {
         <RepoCards
           user="gustavokei"
           repos={[
-            "gc-app-caps",
             "electron-game-updater",
-            "credit-card-form",
-            "my-portfolio-website",
+            "electron-game-updater-helper",
+            "gc-app-caps",
+            "gc-dportal-caps",
           ]}
         />
         <Button
