@@ -7,7 +7,7 @@ const Projects = () => {
   return (
     <Row className="pb-5 customRow">
       <Col xs="10" className="customCol">
-        <h2 className="title">Featured Projects</h2>
+        <h2 className="title">My Featured Projects</h2>
         <RepoCards
           user="gustavokei"
           repos={[
