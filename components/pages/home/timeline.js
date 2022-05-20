@@ -22,11 +22,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline6.webp"
-                alt="Corebiz Logo"
-              />
+              <a
+                href="https://www.linkedin.com/company/corebiz-brasil/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline6.webp"
+                  alt="Corebiz Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
@@ -54,11 +61,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline5.webp"
-                alt="Conestoga Logo"
-              />
+              <a
+                href="https://www.linkedin.com/school/conestoga-college/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline5.webp"
+                  alt="Conestoga Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
@@ -86,11 +100,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline4.webp"
-                alt="Beyoung Logo"
-              />
+              <a
+                href="https://www.linkedin.com/company/bybeyoung/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline4.webp"
+                  alt="Beyoung Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
@@ -118,11 +139,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline3.webp"
-                alt="Cuponomia Logo"
-              />
+              <a
+                href="https://www.linkedin.com/company/cuponomia/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline3.webp"
+                  alt="Cuponomia Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
@@ -150,11 +178,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline2.webp"
-                alt="Ryse Games Logo"
-              />
+              <a
+                href="https://www.linkedin.com/company/rysegames/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline2.webp"
+                  alt="Ryse Games Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
@@ -182,11 +217,18 @@ const Exp = () => {
               color: "#fff",
             }}
             icon={
-              <img
-                className="timelineIcon"
-                src="timeline1.webp"
-                alt="Anhembi Morumbi Logo"
-              />
+              <a
+                href="https://www.linkedin.com/school/universidade-anhembi-morumbi/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline1.webp"
+                  alt="Anhembi Morumbi Logo"
+                />
+              </a>
             }
           >
             <h3 className="vertical-timeline-element-title">
