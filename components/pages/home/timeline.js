@@ -30,7 +30,7 @@ const Exp = () => {
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Front-End Developer
+              Senior Front-End Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
