@@ -13,8 +13,8 @@ const Projects = () => {
           repos={[
             "electron-game-updater",
             "electron-game-updater-helper",
+            "vtex-react-checkout",
             "gc-app-caps",
-            "gc-dportal-caps",
           ]}
         />
         <Button
