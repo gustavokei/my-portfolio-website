@@ -14,7 +14,7 @@ const Projects = () => {
             "electron-game-updater",
             "electron-game-updater-helper",
             "vtex-react-checkout",
-            "gc-app-caps",
+            "my-portfolio-website",
           ]}
         />
         <Button
