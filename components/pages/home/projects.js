@@ -12,7 +12,6 @@ const Projects = () => {
           user="gustavokei"
           repos={[
             "electron-game-updater",
-            "electron-game-updater-helper",
             "vtex-react-checkout",
             "my-portfolio-website",
           ]}
