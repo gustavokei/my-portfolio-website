@@ -2,7 +2,7 @@ import NextHead from "next/head";
 import { string } from "prop-types";
 
 const defaultDescription =
-  "I have been working as a web developer since 2016 while having a Brazilian Bachelor Degree in Web Design (2018) and a Canadian Graduate Certificate in Web Design and Development (2021) with high distinction.";
+  "I have been working as a web developer since 2017 while having a Brazilian Bachelor Degree in Web Design (2018) and a Canadian Graduate Certificate in Web Design and Development (2021) with high distinction.";
 const defaultOGURL = "";
 const defaultOGImage = "";
 
