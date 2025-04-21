@@ -37,7 +37,7 @@ const Exp = () => {
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Senior Front-End Developer
+              Front-End Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
@@ -164,45 +164,6 @@ const Exp = () => {
                 className="customLink"
               >
                 @Cuponomia
-              </a>
-            </h4>
-            <p>São Paulo, SP</p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            contentStyle={{ background: "rgb(253, 153, 63)", color: "#fff" }}
-            contentArrowStyle={{ borderRight: "7px solid  rgb(253, 153, 63)" }}
-            date="2016/03 - 2017/04"
-            iconStyle={{
-              background: "rgb(253, 153, 63)",
-              color: "#fff",
-            }}
-            icon={
-              <a
-                href="https://www.linkedin.com/company/rysegames/"
-                target="_blank"
-                rel="noopener"
-                className="customLink"
-              >
-                <img
-                  className="timelineIcon"
-                  src="timeline2.webp"
-                  alt="Ryse Games Logo"
-                />
-              </a>
-            }
-          >
-            <h3 className="vertical-timeline-element-title">
-              Front-End Developer + UI/UX Designer
-            </h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              <a
-                href="https://www.linkedin.com/company/rysegames/"
-                target="_blank"
-                rel="noopener"
-                className="customLink"
-              >
-                @Ryse Games
               </a>
             </h4>
             <p>São Paulo, SP</p>
