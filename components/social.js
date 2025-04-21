@@ -22,15 +22,6 @@ const Social = () => {
         <FontAwesomeIcon icon={faGithubSquare} />
         <span>GitHub</span>
       </a>
-
-      <a
-        href="https://www.behance.net/gustavokei"
-        target="blank"
-        rel="noopener"
-      >
-        <FontAwesomeIcon icon={faBehanceSquare} />
-        <span>Behance</span>
-      </a>
     </div>
   );
 };
