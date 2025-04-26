@@ -7,7 +7,7 @@ const Intro = () => {
       <Col xs="10">
         <h1 className="title">My name is Gustavo Kei Amemiya</h1>
         <p>
-          I have been working as a web developer since 2016 while having a
+          I have been working as a web developer since 2017 while having a
           Brazilian Bachelor Degree in Web Design (2018) and a Canadian Graduate
           Certificate in Web Design and Development (2021) with high
           distinction.
