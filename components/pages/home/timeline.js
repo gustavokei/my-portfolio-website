@@ -1,4 +1,3 @@
-import React from "react";
 import { Row, Col } from "react-bootstrap";
 import {
   VerticalTimeline,
@@ -14,9 +13,48 @@ const Exp = () => {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
+            contentStyle={{ background: "#0459B2", color: "#fff" }}
+            contentArrowStyle={{ borderRight: "7px solid  #0459B2" }}
+            date="2025/07 - Today"
+            iconStyle={{
+              background: "#0459B2",
+              color: "#fff",
+            }}
+            icon={
+              <a
+                href="https://www.linkedin.com/company/act-digital/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                <img
+                  className="timelineIcon"
+                  src="timeline7.webp"
+                  alt="ACT Digital Logo"
+                />
+              </a>
+            }
+          >
+            <h3 className="vertical-timeline-element-title">
+              Full Stack Developer
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              <a
+                href="https://www.linkedin.com/company/act-digital/"
+                target="_blank"
+                rel="noopener"
+                className="customLink"
+              >
+                @ACT Digital
+              </a>
+            </h4>
+            <p>São Paulo, SP</p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
             contentStyle={{ background: "rgb(0, 0, 0)", color: "#fff" }}
             contentArrowStyle={{ borderRight: "7px solid  rgb(0, 0, 0)" }}
-            date="2021/02 - Today"
+            date="2021/02 - 2025/07"
             iconStyle={{
               background: "rgb(0, 0, 0)",
               color: "#fff",
@@ -37,7 +75,7 @@ const Exp = () => {
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Front-End Developer
+              Full Stack Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a
@@ -154,7 +192,7 @@ const Exp = () => {
             }
           >
             <h3 className="vertical-timeline-element-title">
-              Front-End Developer + UI/UX Designer
+              Front-End Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a

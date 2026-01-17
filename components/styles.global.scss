@@ -49,10 +49,7 @@
 }
 
 .timelineIcon {
-  @media (min-width: 1170px) {
-    width: 60px;
-  }
-  width: 40px;
+  width: 100%;
   border-radius: 100%;
 }
 
