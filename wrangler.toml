@@ -1,5 +1,7 @@
 account_id = ""
 compatibility_date = "2024-12-04"
 compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "out"
 
-[env.production]
+[build]
+command = "npm run build"

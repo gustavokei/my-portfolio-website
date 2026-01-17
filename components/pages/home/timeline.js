@@ -7,7 +7,7 @@ import "react-vertical-timeline-component/style.min.css";
 
 const Exp = () => {
   return (
-    <Row className="pt-5 pb-5 customRow">
+    <Row className="pb-5 customRow">
       <Col xs="10">
         <h2 className="title">Experience</h2>
         <VerticalTimeline>

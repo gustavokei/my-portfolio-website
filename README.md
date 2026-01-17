@@ -1,8 +1,3 @@
-## Google Lighthouse Score
-Measurement done at [web.dev/measure/](https://web.dev/measure/)
-
-![](https://i.imgur.com/OwVxUrp.png)
-
 ## Running locally
 
 Clone this repository and install all the dependencies

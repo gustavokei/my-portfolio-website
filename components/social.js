@@ -1,9 +1,7 @@
-import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faLinkedin,
   faGithubSquare,
-  faBehanceSquare,
 } from "@fortawesome/free-brands-svg-icons";
 import styles from "./social.module.scss";
 
